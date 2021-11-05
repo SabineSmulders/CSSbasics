@@ -1,0 +1,14 @@
+body { 
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    font: size 16px;
+}
+h1.black-border {
+    border: 5px solid white;
+}
+p.black-border{
+    border: 5px solid white;
+}
+#pink-background {
+    background-color: pink;
+}
